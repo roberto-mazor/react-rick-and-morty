@@ -1,0 +1,39 @@
+body {
+  background-color: black;
+
+}
+
+.card {
+  cursor: pointer;
+  margin: auto;
+  border: 2px, solid white;
+  border-radius: 12px;
+  padding: 10;
+  margin: auto;
+  box-shadow: 6px 6px 5px rgba(255, 255, 255, 0.950);
+  padding: 16px;
+  max-width: 300px;
+
+}
+
+.card-title {
+  color: white;
+  text-align: center;
+  border-left: 5px solid rgb(37, 119, 243);
+  border-radius: 2px;
+}
+
+.card-image {
+  width: 100%;
+  border-radius: 12px;
+  display: block;
+}
+
+.tag{
+  background-color: white;
+  border-radius: 5px;
+  display: inline-block;
+  padding: 5px;
+  margin: 3px;
+  font-weight: bold;
+}
